@@ -36,9 +36,6 @@ Here are some ideas to get you started:
 <img style="padding: 3px;" align="left" width="24px" src="https://simpleicons.org/icons/javascript.svg"  />
 <img style="padding: 3px;" align="left" width="24px" src="https://simpleicons.org/icons/css3.svg"  />
 <img style="padding: 3px;" align="left" width="24px" src="https://simpleicons.org/icons/html5.svg"  />
-
-<br />
-<br />
 <img style="padding: 3px;" align="left" width="24px" src="https://simpleicons.org/icons/adobeillustrator.svg"  />
 <img style="padding: 3px;" align="left" width="24px" src="https://simpleicons.org/icons/visualstudiocode.svg"  />
 <img style="padding: 3px;" align="left" width="24px" src="https://simpleicons.org/icons/figma.svg"  />
