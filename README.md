@@ -27,9 +27,9 @@ Here are some ideas to get you started:
 
 ### About Me 🚀
 
-🎓 I’m an Inquisitive guy learning and curious about the computer world & a junior pursuing my Bachelors in Motilal Nehru National Institute of Technology Allahabad. </br>
-👨‍💻  I am passionate about Web Development, Dsigning , Algorithms & I enjoy learning new things. </br>
-👨‍💻 Graphic Designer at Media House of MNNIT , official media club of our college MNNIT Allahabad . </br>
+🎓 I’m an Inquisitive guy learning and curious about the computer world & a junior pursuing my Bachelors in MNNIT Allahabad. </br>
+👨‍💻  I am passionate about Web Development, Designing , Algorithms & I enjoy learning new things. </br>
+🎉 Graphic Designer at Media House of MNNIT , official media club of our college MNNIT Allahabad . </br>
 ### Tech i am familiar with 👨‍💻
 <img style="padding: 3px;" align="left" width="24px" src="https://simpleicons.org/icons/c.svg"  />
 <img style="padding: 3px;" align="left" width="24px" src="https://simpleicons.org/icons/cplusplus.svg"  />
