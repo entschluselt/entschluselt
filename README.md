@@ -44,9 +44,6 @@ Here are some ideas to get you started:
 <img style="padding: 3px;" align="left" width="24px" src="https://simpleicons.org/icons/figma.svg"  />
 
 <br />
-</br>
 
-![yashdeep's github stats](https://github-readme-stats.vercel.app/api?username=entschluselt&show_icons=true&hide_border=true)
-<br />
 
 
